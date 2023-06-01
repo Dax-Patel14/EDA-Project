@@ -1,2 +1,2 @@
 # EDA-Project
-Exploratory Data Analysis using Python Jupyter Notebook
+Carried Out Exploratory Data Analysis using Python Jupyter Notebook. Use various library like Pandas, Numpy, Matplotlib, Seaborn etc...
